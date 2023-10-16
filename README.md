@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AliFeruz
-- 🌱 I’m currently learning full stuck development.
+- 🌱 I’m currently learning Full Stack Web Development.
 - 📫 you can rich me via email aliferuzfox@gmail.com
 
 <!---
