@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AliFeruz
 - 🌱 I’m currently learning Full Stack Web Development.
-- 📫 you can rich me via email aliferuzfox@gmail.com
+- 📫 you can rich me via email aliferuzcode@gmail.com
 
 <!---
 AliFeruz/AliFeruz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
