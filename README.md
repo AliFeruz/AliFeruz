@@ -34,9 +34,9 @@ Skills
 Full-Stack Development
 ----------------------
 
-### HTML       ### CSS      ### JavaScript     ### TypeScript     ### Tailwind-CSS     ### React
+### HTML       CSS      JavaScript      TypeScript      Tailwind-CSS     React
 
-### Next JS     ### Node JS     ### Express JS      ### Git     ### MONGODB
+### Next JS     Node JS     Express JS      Git     MONGODB
 
 
 and more other skills...
