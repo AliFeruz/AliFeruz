@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AliFeruz
-- 🌱 I’m currently learning Full Stack Web Development.
+- 🌱 I’m junior Full Stack Web Developer.
 - 📫 you can rich me via email aliferuzcode@gmail.com
 
 <!---
