@@ -15,9 +15,9 @@ Ali Feruz
 - - 🌱 I’m junior Full Stack Web Developer.
 - - 📫 you can rich me via email aliferuzcode@gmail.com
 
-Download CV Contact Me
+[LinkedIn](https://www.linkedin.com/in/ali-feruz-5840ab164/)
 
-![My LinkedIn profile](./assets/linkedin.png) 
+![My LinkedIn profile](https://www.linkedin.com/in/ali-feruz-5840ab164/) 
 
 ### Education
 
@@ -38,69 +38,13 @@ Skills
 Full-Stack Development
 ----------------------
 
-![skills-mark](./assets/checkmark.png)
+### HTML       ### CSS     ### JavaScript    ### TypeScript    ### Tailwind-CSS   ### React
 
-### HTML
+### Next JS    ### Node JS   ### Express JS   ### Git  ### MONGODB
 
-Experienced
-
-![skills-mark](./assets/checkmark.png)
-
-### CSS
-
-Intermediate
-
-![skills-mark](./assets/checkmark.png)
-
-### JavaScript
-
-Intermediate
-
-![skills-mark](./assets/checkmark.png)
-
-### TypeScript
-
-Basic
-
-![skills-mark](./assets/checkmark.png)
-
-### Tailwind-CSS
-
-Experienced
-
-![skills-mark](./assets/checkmark.png)
-
-### React
-
-Intermediate
-
-![skills-mark](./assets/checkmark.png)
-
-### Next JS
-
-Basic
-
-![skills-mark](./assets/checkmark.png)
-
-### Node JS
-
-Basic
-
-![skills-mark](./assets/checkmark.png)
-
-### Express JS
-
-Basic
-
-![skills-mark](./assets/checkmark.png)
-
-### Git
-
-Basic
 
 and more other skills...
 
-![arrow](./assets/arrow.png)
 
 Browse My Recent
 
@@ -132,19 +76,5 @@ Github Live Demo
 
 Get in Touch
 
-Contact Me
-==========
 
-![email](./assets/email.png)
 
-[aliferuzcode@gmail.com](mailto:examplemail@gmail.com)
-
-![My LinkedIn profile](./assets/linkedin.png)
-
-[LinkedIn](https://www.linkedin.com/in/ali-feruz-5840ab164/)
-
-*   [About](#about)
-*   [My Skills](#skills)
-*   [Projects](#projects)
-
-Copyright © 2023 Ali Feruz. All Rights Reserved.
