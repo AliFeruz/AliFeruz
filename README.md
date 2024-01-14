@@ -16,7 +16,7 @@ About Me
 ### Education
 
 6 month  
-Full Stack Development  
+Full Stack Web Development  
 in Campus
 
 Enthusiastic Junior Full Stack Developer with a strong foundation in web development technologies. Proficient in HTML, CSS, and JavaScript, with hands-on experience in building responsive and dynamic web applications using React and Node.js. Well-versed in the modern development workflow, utilizing Git/Github for version control.
