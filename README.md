@@ -29,20 +29,11 @@ Eager to contribute my technical skills and passion for innovation to a dynamic 
 Skills
 ======
 
-Full-Stack Development
+Full-Stack WEB Development
 ----------------------
 
 ### HTML    ||   CSS   ||   JavaScript   ||   TypeScript    ||  Tailwind-CSS   ||  React
 
 ### Next JS   ||   Node JS   ||  Express JS   ||   Git   ||  MONGODB
-
-
-[Pokedex](https://pokedex1gen.vercel.app/index.html)
-
-Rakhudu
--------
-
-[arrow](https://marggraff.vercel.app/)
-
 
 
