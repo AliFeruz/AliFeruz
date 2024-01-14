@@ -1,18 +1,16 @@
-Ali Feruz
-=========
 <!---
 AliFeruz/AliFeruz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
 About Me
 ========
 
 - - 👋 Hello, I’m @AliFeruz Junior Full Stack Web Developer
+
+    
 - - 📫 you can rich me via email aliferuzcode@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/ali-feruz-5840ab164/)
-
 
 
 ### Education
@@ -46,26 +44,21 @@ My Recent
 Projects
 ========
 
-![project-one](./assets/crud-note.jpeg)
-
 CRUD Note
 ---------
 
-Github Live Demo
+[CrudNote](https://crudnotes.vercel.app/)
 
-![project-one](./assets/first_project.jpeg)
 
 Pokedex
 -------
 
-Github Live Demo
-
-![project-one](./assets/rakhudu.jpeg)
+[Pokedex](https://pokedex1gen.vercel.app/index.html)
 
 Rakhudu
 -------
 
-![arrow](./assets/arrow.png)
+[arrow](https://marggraff.vercel.app/)
 
 
 
