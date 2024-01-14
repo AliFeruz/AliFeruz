@@ -1,48 +1,23 @@
-- 👋 Hi, I’m @AliFeruz
-- 🌱 I’m junior Full Stack Web Developer.
-- 📫 you can rich me via email aliferuzcode@gmail.com
+About Me
+========
 
 <!---
 AliFeruz/AliFeruz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-  Ali Feruz  
-
-Ali Feruz
-
-*   [About](#about)
-*   [My Skills](#skills)
-*   [Projects](#projects)
-*   [Contact](#contact)
-*   ![Color theme icon](./assets/theme_light.png)
-
-Ali Feruz
-
-*   [About](#about)
-*   [My Skills](#skills)
-*   [Projects](#projects)
-*   [Contact](#contact)
-*   ![Color theme icon](./assets/theme_light.png)
-
-![profile](./assets/profile.jpeg)
 
 Hello, I'm
 
 Ali Feruz
 =========
 
-Full-Stack Developer
+- - 👋 Hello, I’m @AliFeruz Full-Stack Developer
+- - 🌱 I’m junior Full Stack Web Developer.
+- - 📫 you can rich me via email aliferuzcode@gmail.com
 
 Download CV Contact Me
 
-![My LinkedIn profile](./assets/linkedin.png) ![My Github profile](./assets/github.png)
-
-Get To Know More
-
-About Me
-========
-
-![experience](./assets/experience.png)
+![My LinkedIn profile](./assets/linkedin.png) 
 
 ### Education
 
@@ -56,9 +31,6 @@ Specialized in crafting sleek and intuitive user interfaces with proficiency in 
 
 Eager to contribute my technical skills and passion for innovation to a dynamic development team at \[Company/Organization\]. Excited about the opportunity to apply and expand my expertise in full-stack development to drive impactful solutions and deliver exceptional user experiences.
 
-![arrow](./assets/arrow.png)
-
-Explore My
 
 Skills
 ======
