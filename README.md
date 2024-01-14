@@ -32,26 +32,10 @@ Skills
 Full-Stack Development
 ----------------------
 
-### HTML       CSS      JavaScript      TypeScript      Tailwind-CSS     React
+### HTML    ||   CSS   ||   JavaScript   ||   TypeScript    ||  Tailwind-CSS   ||  React
 
-### Next JS     Node JS     Express JS      Git     MONGODB
+### Next JS   ||   Node JS   ||  Express JS   ||   Git   ||  MONGODB
 
-
-and more other skills...
-
-My Recent
-
-Projects
-========
-
-CRUD Note
----------
-
-[CrudNote](https://crudnotes.vercel.app/)
-
-
-Pokedex
--------
 
 [Pokedex](https://pokedex1gen.vercel.app/index.html)
 
