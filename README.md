@@ -1,23 +1,20 @@
-About Me
-========
-
+Ali Feruz
+=========
 <!---
 AliFeruz/AliFeruz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-Hello, I'm
+About Me
+========
 
-Ali Feruz
-=========
-
-- - 👋 Hello, I’m @AliFeruz Full-Stack Developer
-- - 🌱 I’m junior Full Stack Web Developer.
+- - 👋 Hello, I’m @AliFeruz Junior Full Stack Web Developer
+- - 
 - - 📫 you can rich me via email aliferuzcode@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/ali-feruz-5840ab164/)
 
-![My LinkedIn profile](https://www.linkedin.com/in/ali-feruz-5840ab164/) 
+
 
 ### Education
 
