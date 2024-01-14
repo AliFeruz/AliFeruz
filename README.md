@@ -9,7 +9,6 @@ About Me
 ========
 
 - - 👋 Hello, I’m @AliFeruz Junior Full Stack Web Developer
-- - 
 - - 📫 you can rich me via email aliferuzcode@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/ali-feruz-5840ab164/)
@@ -35,15 +34,14 @@ Skills
 Full-Stack Development
 ----------------------
 
-### HTML       ### CSS     ### JavaScript    ### TypeScript    ### Tailwind-CSS   ### React
+### HTML       ### CSS      ### JavaScript     ### TypeScript     ### Tailwind-CSS     ### React
 
-### Next JS    ### Node JS   ### Express JS   ### Git  ### MONGODB
+### Next JS     ### Node JS     ### Express JS      ### Git     ### MONGODB
 
 
 and more other skills...
 
-
-Browse My Recent
+My Recent
 
 Projects
 ========
@@ -67,11 +65,7 @@ Github Live Demo
 Rakhudu
 -------
 
-Github Live Demo
-
 ![arrow](./assets/arrow.png)
-
-Get in Touch
 
 
 
