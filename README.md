@@ -5,10 +5,10 @@ You can click the Preview link to take a look at your changes.
 About Me
 ========
 
-- - 👋 Hello, I’m @AliFeruz Junior Full Stack Web Developer
+-  👋 Hello, I’m @AliFeruz Junior Full Stack Web Developer
 
     
-- - 📫 you can rich me via email aliferuzcode@gmail.com
+-  📫 you can rich me via email aliferuzcode@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/ali-feruz-5840ab164/)
 
