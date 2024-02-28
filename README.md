@@ -2,24 +2,27 @@
 AliFeruz/AliFeruz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![bacground](loader.gif)
+![bacground](top.jpg)
 
 About Me
 ========
 
--  👋 Hello, I’m @AliFeruz Junior Full Stack Web Developer
+👋 Hello, I’m @AliFeruz Junior Full Stack Web Developer
 
     
--  📫 you can rich me via email aliferuzcode@gmail.com
+📫 you can rich me via email aliferuzcode@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/ali-feruz-5840ab164/)
 
 
 ### Education
 
-6 month  
-Full Stack Web Development  
-in Campus
+I studied at Code Academy Berlin | Berlin
+September 2023 - February 2024
+
+Web Development Bootcamp (full-time on-site) | Front-end + Back-end
+
+Completed an 840-hour intensive course focusing on practical, project-based work following the agile / SCRUM framework within the cohort, including code reviews, spikes, presentations.
 
 Enthusiastic Junior Full Stack Developer with a strong foundation in web development technologies. Proficient in HTML, CSS, and JavaScript, with hands-on experience in building responsive and dynamic web applications using React and Node.js. Well-versed in the modern development workflow, utilizing Git/Github for version control.
 
