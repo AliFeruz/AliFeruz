@@ -14,6 +14,7 @@ About Me
 
 [LinkedIn](https://www.linkedin.com/in/ali-feruz-5840ab164/)
 
+[Portfolio](https://codingferuz.vercel.app/)
 
 ### Education
 
