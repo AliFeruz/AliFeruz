@@ -7,14 +7,15 @@ You can click the Preview link to take a look at your changes.
 About Me
 ========
 
-👋 Hello, I’m @AliFeruz Junior Full Stack Web Developer
+👋 Hello, I’m @AliFeruz 
+     Web Developer
 
     
 📫 you can rich me via email aliferuzcode@gmail.com
 
-[LinkedIn](https://www.linkedin.com/in/ali-feruz-5840ab164/)
+|| [LinkedIn](https://www.linkedin.com/in/ali-feruz-5840ab164/)      || [Portfolio](https://webdevali.vercel.app/)
 
-[Portfolio](https://codingferuz.vercel.app/)
+
 
 ### Education
 
@@ -30,10 +31,6 @@ Enthusiastic Junior Full Stack Developer with a strong foundation in web develop
 Specialized in crafting sleek and intuitive user interfaces with proficiency in styling frameworks like Tailwind CSS. Experienced in database management, with a solid understanding of MongoDB and Firebase, ensuring seamless integration of data-driven functionalities.
 
 Eager to contribute my technical skills and passion for innovation to a dynamic development team at \[Company/Organization\]. Excited about the opportunity to apply and expand my expertise in full-stack development to drive impactful solutions and deliver exceptional user experiences.
-
-
-Skills
-======
 
 Full-Stack WEB Development
 ----------------------
