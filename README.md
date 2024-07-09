@@ -31,8 +31,8 @@ Eager to contribute my technical skills and passion for innovation to a dynamic 
 
 ## Full-Stack Web Development Skills
 
-- **HTML** || **CSS** || **JavaScript** || **TypeScript** || **Tailwind CSS** || **React**
-- **Next.js** || **Node.js** || **Express.js** || **Git** || **MongoDB**
+- **HTML**  **CSS**  **JavaScript**  **TypeScript**  **Tailwind CSS** **React**
+- **Next.js**  **Node.js**  **Express.js**  **Git**  **MongoDB**
 
 
 
