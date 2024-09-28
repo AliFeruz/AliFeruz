@@ -1,5 +1,4 @@
 
-![Background](top2.jpg)
 
 # About Me
 
@@ -9,7 +8,7 @@
 
 || [LinkedIn](https://www.linkedin.com/in/ali-feruz-5840ab164/) || [Portfolio](https://webdevali.vercel.app/) ||
 
-![Background](HeroSection.png)
-![Background](Values.png)
-![Background](Services.png)
+![Background](assets/HeroSection.png)
+![Background](assets/Values.png)
+![Background](assets/Services.png)
 
